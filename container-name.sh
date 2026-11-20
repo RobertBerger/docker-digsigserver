@@ -1,2 +1,5 @@
 CONTAINER_NAME="digsigserver"
 BRANCH="2026-11-19-digsigserver-v0.19.0"
+GIT_REPO="https://github.com/madisongh/digsigserver.git"
+GIT_REPO_BRANCH="master"
+GIT_REPO_COMMIT_ID="ce04f119bec2d307a666e5d52cda50017ddacc27"
